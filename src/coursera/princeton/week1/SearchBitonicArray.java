@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package coursera;
+package coursera.princeton.week1;
 
 /**
  *
